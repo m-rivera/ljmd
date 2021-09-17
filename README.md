@@ -14,6 +14,9 @@ It implements:
 - Periodic boundary conditions with the minimal image convention.
 - Radial distribution function generator.
 
+There is an additional Jupyter notebook which contains the same code with blank
+spaces for students to annotate.
+
 ## Outputs
 
 The program generates out four files:
