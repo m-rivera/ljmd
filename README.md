@@ -16,6 +16,8 @@ It implements:
 
 There is an additional Jupyter notebook which contains the same code with blank
 spaces for students to annotate.
+The `animations/` contains files to make instructive animations using `manim`
+v10.0.0. They are beginner animations, so don't expect best practices.
 
 ## Outputs
 
